@@ -1,0 +1,25 @@
+{
+	"dependencies": {
+		"jimp": "^1.6.0"
+	},
+	"name": "image-processing-nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "normal.js",
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/boybothere/image-processing-nodejs.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/boybothere/image-processing-nodejs/issues"
+	},
+	"homepage": "https://github.com/boybothere/image-processing-nodejs#readme"
+}
