@@ -1,0 +1,6 @@
+==============================
+MULTITHREADING PROCESSING
+==============================
+Total time:9457ms (9.46s)
+Average image time:946ms
+==============================
