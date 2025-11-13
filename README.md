@@ -40,5 +40,11 @@ The program processes a set of sample images by applying several transformations
 | **Promises / async-await** | For managing async workflows |
 
 ---
+## Outputs in the respective cases
+<img width="287" height="156" alt="image" src="https://github.com/user-attachments/assets/0b32b510-0122-4dc9-8d00-9dd0b60fc37b" />
+<img width="284" height="158" alt="image" src="https://github.com/user-attachments/assets/cff8a432-c127-4de4-a698-e5a7ee02e1db" />
+
+
+
 
 
